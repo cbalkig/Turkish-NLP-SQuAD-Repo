@@ -8,7 +8,9 @@ The synonyms had been generated using Facebook Turkish FastText model.
 [Google Drive Link](https://drive.google.com/drive/folders/1hiuOraLnXopBATK59aed_QGxGtZQ5XyI?usp=sharing)
 
 This data set is generated for the following paper:
-A Turkish Question Answering System Based on Deep Learning Neural Networks
+
+> A Turkish Question Answering System Based on Deep Learning Neural Networks
+
 [Paper Link](https://dergipark.org.tr/en/download/article-file/1361881)
 
 ## Cite:
