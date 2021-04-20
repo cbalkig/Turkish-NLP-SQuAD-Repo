@@ -7,7 +7,7 @@ The synonyms had been generated using Facebook Turkish FastText model.
 
 [Google Drive Link](https://drive.google.com/drive/folders/1hiuOraLnXopBATK59aed_QGxGtZQ5XyI?usp=sharing)
 
-This data set is generated for the following paper:
+This data set is generated for the research of the following paper:
 
 > A Turkish Question Answering System Based on Deep Learning Neural Networks
 
