@@ -1,8 +1,8 @@
-# NLP-SQuAD-Repo
+# Turkish NLP SQuAD Repo
 
-The Turkish SQuAD data set which is translated from original English SQuAD v1.1 data set using Google Translation API.
+The Turkish SQuAD data set that is translated from original English SQuAD v1.1 data set using Google Translation API.
 
-Extended versions are in the Google Drive Repo which has synonyms.
+Extended versions are in the Google Drive Repo which also have synonyms.
 The synonyms had been generated using Facebook Turkish FastText model.
 
 [Google Drive Link](https://drive.google.com/drive/folders/1hiuOraLnXopBATK59aed_QGxGtZQ5XyI?usp=sharing)
