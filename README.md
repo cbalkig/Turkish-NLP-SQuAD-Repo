@@ -22,3 +22,14 @@ Gemirter, C , Goularas, D . (2021). A Turkish Question Answering System Based on
 ### IEEE
 
 C. Gemirter and D. Goularas , "A Turkish Question Answering System Based on Deep Learning Neural Networks", Journal of Intelligent Systems: Theory and Applications, vol. 4, no. 2, pp. 65-75, Sep. 2021, doi:10.38016/jista.815823
+
+### Bibtex
+
+@article{gemirter4turkish,
+  title={A Turkish Question Answering System Based on Deep Learning Neural Networks},
+  author={Gemirter, Cavide Balk{\i} and Goularas, Dionysis},
+  journal={Journal of Intelligent Systems: Theory and Applications},
+  volume={4},
+  number={2},
+  pages={65--75}
+}
